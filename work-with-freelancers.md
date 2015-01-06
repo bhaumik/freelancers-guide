@@ -4,7 +4,7 @@
 Elance/oDesk*
 - If you’ve done any research into hiring a freelancer, you’re aware of the 800-pound gorillas of freelance marketplaces: Elance and oDesk. These are both great resources as you’ll find tons of freelancers from all over the world with a wide range of skills.
 
-gun.io & Authentic Jobs
+[gun.io](gun.io) & Authentic Jobs
 - These boards have great jobs that pay well. It may cost you a bit more, but it will be worth it to find the right person. Folyo is a similar board for designers. A quick search will reveal similar boards for various other areas of expertise.
 
 Reddit’s forhire subreddit
