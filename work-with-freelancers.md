@@ -54,6 +54,7 @@ Freelance rates are all over the place. I talked to a startup recently who has b
 --------------------
 
 **Set Your Budget**
+
 Wait! Before you go any further, you need to have a good idea of your budget for this project. Most freelancers will ask you before they quote the project. The reason for this is that solutions to most problems can vary wildly from extremely simple to more complex and robust. We need to understand how much you’ll be spending so we can build a solution with that in mind. That doesn’t mean the solution will necessarily use up that entire budget. It’s also possible that all your requirements can’t be met within the budget. That’s a good thing to know early.
 
 I understand the objection to this. If I don’t keep the budget a secret, the balance of power in negotiations tip toward the freelancer. This may be partly true, but the alternative is unrealistic. Imagine going to a realtor and asking them to help you look for a new house. They ask for your price range. You reply that you can’t tell them because then they will not care about getting you the best deal. You’d rather keep that secret until you find the right house.
