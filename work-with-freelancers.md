@@ -221,17 +221,20 @@ If your freelancer wasn’t clear on which parts they need feedback for, just as
 If you’re building a web site, it’s going to need text, images, videos, and other assets. Unless you’re paying the freelancer to come up with the content too, you’ll need to be sure they get it when they need it. A web site isn’t just a bucket you pour content into. The content will inform what your freelancer is going to build. You let this responsibility go at your own peril. The end result will suffer for it, and so will your freelancer!
 
 --------------------
+
 **Package Your Branding**
 
 One of the most common pieces of content you’ll have freelancers requesting is your branding assets. This includes names, logos, and slogans that set your business apart from others. You might have several different permutations of your logo for different contexts or maybe you have brands within the overall brand that each have their own assets. If you’re really serious, you may want to develop branding guidelines that tell exactly how your assets should be used.
 
 Pull all of this together now before you need it to make things move a little quicker when the time comes that you do need it.
+
 --------------------
 ### Pay On Time
 
 I’ve mentioned payment at almost every turn throughout this guide, but it bears repeating here as it is probably the most important responsibility. If the freelancer can’t get paid, they can’t keep doing what they love. If they can’t get paid predictably and on-time, it can cause all sorts of problems with their business. Quality freelancers may not work with you if you can’t pay on-time leaving you with fewer options next time you want to bring in outside help on a project.
 
 ## Conclusion
+
 ### You're Ready!
 
 Armed with the how to hire, how to work with, and what your responsibilities are to your freelancer, you’re as prepared as you’ll ever be to hire a freelancer. You still don’t know everything, but, truth is, none of us do. Working with people is as varied and unpredictable as anything you’re ever likely to do. Even if you’ve been freelancing or hiring freelancers for years, you’re still running up against new challenges that keep you on your toes.
