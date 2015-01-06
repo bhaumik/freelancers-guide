@@ -12,9 +12,9 @@ Reddit’s forhire subreddit
 - Freelancers can get better rates than the bargain basement jobs you overwhelmingly see on oDesk, but it’s not quite the caliber of Gun.io. The jobs here are often more interesting than something you’ll see on other boards.
 
 Local Communities
--If you can find where freelancers congregate locally, this can be an excellent source of help, particularly if you have need for someone to be on location. Just make sure you draw the line between needing someone on location and wanting someone on location. If you’re hiring a contractor for construction, you need someone on-site. If you’re hiring a web developer, you probably don’t. David Heinemeier Hannson, founder of Basecamp and creator of the popular Rails framework, says that, although it’s important to enjoy the company of co-workers in person, “[face-time is] far less important as a tool of getting things done.”
+- If you can find where freelancers congregate locally, this can be an excellent source of help, particularly if you have need for someone to be on location. Just make sure you draw the line between needing someone on location and wanting someone on location. If you’re hiring a contractor for construction, you need someone on-site. If you’re hiring a web developer, you probably don’t. David Heinemeier Hannson, founder of Basecamp and creator of the popular Rails framework, says that, although it’s important to enjoy the company of co-workers in person, “[face-time is] far less important as a tool of getting things done.”
 
--Local freelancers can be found in meetup groups, chambers of commerce, business networking groups, and groups that provide support to entrepreneurs. Ask other business owners who they’ve used.
+- Local freelancers can be found in meetup groups, chambers of commerce, business networking groups, and groups that provide support to entrepreneurs. Ask other business owners who they’ve used.
 
 **Elance and oDesk are the biggest freelance marketplace representing the widest variety of skills. They sound like the perfect solution for all your freelancing needs, but it’s not all sunshine and rainbows.
 
