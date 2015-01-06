@@ -1,6 +1,11 @@
 # Ultimate Guide To Working With A Freelancer
+
+Before you hire a freelancer, it’s good to understand what you’re getting into and how to navigate through the process with less frustration and uncertainty. If everything works out well, you’ll not only have the services you paid for, but also someone you can trust for future projects. This guide will include everything you need to know on hiring, setting expectations, and understanding your responsibilities as you work with a freelancer. Although some of the information focuses on hiring web developers, most of it applies when hiring any kind of freelancer.
+
 ## Finding Freelancers
 ### Where To Look
+
+**organize by what you're actually looking for**
 
 Elance-oDesk*
 - If you’ve done any research into hiring a freelancer, you’re aware of the 800-pound gorillas of freelance marketplaces: Elance and oDesk. These are both great resources as you’ll find tons of freelancers from all over the world with a wide range of skills.
